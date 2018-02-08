@@ -1,0 +1,5 @@
+﻿  Win32MT_Lab2_3_var12.cpp
+d:\users\dfutsur\desktop\4_1_term\спз\practise\win32mt_lab2_3_var12\win32mt_lab2_3_var12\win32mt_lab2_3_var12.cpp(134): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+d:\users\dfutsur\desktop\4_1_term\спз\practise\win32mt_lab2_3_var12\win32mt_lab2_3_var12\win32mt_lab2_3_var12.cpp(139): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+d:\users\dfutsur\desktop\4_1_term\спз\practise\win32mt_lab2_3_var12\win32mt_lab2_3_var12\win32mt_lab2_3_var12.cpp(199): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+  Win32MT_Lab2_3_var12.vcxproj -> D:\Users\dFutsur\Desktop\4_1_term\СПЗ\Practise\Win32MT_Lab2_3_var12\Debug\Win32MT_Lab2_3_var12.exe

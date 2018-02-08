@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  WinAPI_TSK_Lab_2_3.cpp
+e:\навчання\4_1_term\спз\practise\winapi_tsk_lab_2_3\winapi_tsk_lab_2_3\winapi_tsk_lab_2_3.cpp(133): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+e:\навчання\4_1_term\спз\practise\winapi_tsk_lab_2_3\winapi_tsk_lab_2_3\winapi_tsk_lab_2_3.cpp(138): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+e:\навчання\4_1_term\спз\practise\winapi_tsk_lab_2_3\winapi_tsk_lab_2_3\winapi_tsk_lab_2_3.cpp(198): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+  WinAPI_TSK_Lab_2_3.vcxproj -> E:\Навчання\4_1_term\СПЗ\Practise\WinAPI_TSK_Lab_2_3\Debug\WinAPI_TSK_Lab_2_3.exe

@@ -1,0 +1,5 @@
+﻿  MMvar11.cpp
+e:\навчання\4_1_term\спз\practise\repa\win32mm_var11\win32mm_var11\mmvar11.cpp(136): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+e:\навчання\4_1_term\спз\practise\repa\win32mm_var11\win32mm_var11\mmvar11.cpp(141): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+e:\навчання\4_1_term\спз\practise\repa\win32mm_var11\win32mm_var11\mmvar11.cpp(201): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+  Win32MM_var11.vcxproj -> E:\Навчання\4_1_term\СПЗ\Practise\REPA\Win32MM_var11\Debug\Win32MM_var11.exe
