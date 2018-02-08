@@ -1,0 +1,7 @@
+﻿  Lab6.cpp
+d:\users\dfutsur\desktop\4_1_term\ziks\lab6\lab_6\lab_6\lab6.cpp(116): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+d:\users\dfutsur\desktop\4_1_term\ziks\lab6\lab_6\lab_6\lab6.cpp(134): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+d:\users\dfutsur\desktop\4_1_term\ziks\lab6\lab_6\lab_6\lab6.cpp(106): warning C4101: num: неиспользованная локальная переменная
+d:\users\dfutsur\desktop\4_1_term\ziks\lab6\lab_6\lab_6\lab6.cpp(80): warning C4715: modInverse: значение возвращается не при всех путях выполнения
+  Lab_6.vcxproj -> D:\Users\dFutsur\Desktop\4_1_term\ZIKS\Lab6\Lab_6\Debug\Lab_6.exe
+  Lab_6.vcxproj -> D:\Users\dFutsur\Desktop\4_1_term\ZIKS\Lab6\Lab_6\Debug\Lab_6.pdb (Full PDB)
